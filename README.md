@@ -6,8 +6,9 @@ This is a python implementation of the algorithm described in the paper below
 for computing optimal offloading policies, as well of simulation and testing
 code to evaluate these policies:
 
-Ayan Chakrabarti, Roch Guérin, Chenyang Lu, and Jiangnan Liu, **"Real-time Edge
-Classification: Optimal Offloading under Token Bucket Constraints,"** 2020.
+[Ayan Chakrabarti, Roch Guérin, Chenyang Lu, and Jiangnan Liu, **"Real-time Edge
+Classification: Optimal Offloading under Token Bucket Constraints,"**
+arXiv:2010.13737 [cs.LG], 2020.](https://arxiv.org/abs/2010.13737)
 
 ## Requirements
 
