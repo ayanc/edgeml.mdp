@@ -92,7 +92,7 @@ code](https://github.com/mit-han-lab/once-for-all) provided by its authors.
 
 ## Acknowledgments
 
-This work was partially supported by the National Science Foundation under award
-no. CPS-1646579. Any opinions, findings, and conclusions or recommendations
-expressed in this material are those of the authors, and do not necessarily
-reflect the views of the National Science Foundation.
+This work was partially supported by the National Science Foundation under
+awards no. CPS-1646579 and CNS-1514254. Any opinions, findings, and conclusions
+or recommendations expressed in this material are those of the authors, and do
+not necessarily reflect the views of the National Science Foundation.
